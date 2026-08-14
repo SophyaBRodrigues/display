@@ -6,7 +6,17 @@
   text-align: center;
 }
 
-.projeto {
+.Projetos {
+  border: 2px solid #000000;
   display: inline-block;
+  width: 260px;
+  height: 160px;
+}
+
+.bold {
+  border: 2px solid #000000;
+}
+
+.Rodapé {
   border: 2px solid #000000;
 }
